@@ -1,0 +1,13 @@
+.container-flex {
+  width: 100%;
+  padding-top: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.container-flex span {
+  border: 1px solid black;
+  padding: 4px 8px;
+}
